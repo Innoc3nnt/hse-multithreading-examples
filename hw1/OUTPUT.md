@@ -1,0 +1,23 @@
+``` bash
+Innoc3nt@Innoc3nt:~/Desktop/hse-mutithreading/1/build$ ./dfs_coroutines 
+Visited: 0
+Visited: 1
+Visited: 4
+Visited: 10
+Visited: 22
+Visited: 23
+Visited: 11
+Visited: 24
+Visited: 25
+Visited: 5
+Visited: 12
+Visited: 26
+Visited: 27
+Visited: 13
+Visited: 28
+Visited: 29
+Visited: 2
+Visited: 6
+Visited: 14
+Visited: 30
+```
